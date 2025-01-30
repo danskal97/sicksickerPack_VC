@@ -1,3 +1,6 @@
+# NOTE:
+This is a fork of [the R package version of the Sick Sicker model](https://github.com/dark-peak-analytics/sicksickerPack) developed initially by the DARTH group. This fork is used to demo collaboration on GitHub.
+
 # sicksickerPack
 
 This repository houses the case study R package `sicksickerPack` described in a working paper:
